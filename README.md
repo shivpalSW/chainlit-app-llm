@@ -26,3 +26,7 @@ Commands to Use:
 ```bash
 chainlit hello
 ```
+
+```bash
+chainlit run app.py -w
+```
