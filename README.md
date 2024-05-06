@@ -7,7 +7,7 @@ pip install chainlit
 ```
 
 ```
-Commanda to Use:
+Commands to Use:
 
     1  git init
     2  conda create -p env python=3.8 
