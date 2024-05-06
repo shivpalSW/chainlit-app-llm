@@ -16,12 +16,14 @@ def ask_bot(user_message,instruction):
     
     model = ChatGoogleGenerativeAI(model="gemini-pro", convert_system_message_to_human=True)
     
+    
     respones=model(
     [
         SystemMessage(content=instruction),
         HumanMessage(content=user_message),
     ]
 )
+    
     return respones.content
 
 if __name__=="__main__":
