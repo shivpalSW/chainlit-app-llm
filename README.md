@@ -21,3 +21,8 @@ Commands to Use:
    10  touch .gitignore
    11  history
 ```
+
+#### To run chainlit app
+```bash
+chainlit hello
+```
