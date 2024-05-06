@@ -33,3 +33,5 @@ chainlit run app.py -w
 
 #### Chainlit UI
 ![alt text](chainlit1.JPG)
+
+![alt text](Capture2.JPG)
