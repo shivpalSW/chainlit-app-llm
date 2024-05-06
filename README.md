@@ -1,6 +1,6 @@
 # Using Chainlit for any bot creation
 
-#### DOCUMENTATION LINK:- documentation link: https://docs.chainlit.io/get-started/overview
+#### CHAINLIT DOCUMENTATION LINK:- https://docs.chainlit.io/get-started/overview
 
 ```bash
 pip install chainlit
